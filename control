@@ -1,0 +1,10 @@
+Package: com.minazuki.mktbypass
+Name: MarioKartTourBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Avoiding jailbreak detection in Mario Kart Tour.
+Depiction: https://minazukidev.github.io/html/MarioKartTourBypass/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
